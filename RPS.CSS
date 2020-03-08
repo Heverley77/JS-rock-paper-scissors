@@ -1,0 +1,31 @@
+body{
+    background-color: #403c3c;
+}
+
+
+#pCount, #cCount, #tCount{
+    
+    text-align: center;
+    margin-right: 30%;
+    margin-left: 25%;
+    width: 50%;
+    display: inline-block;
+    background-color: gray;
+
+}
+
+#Rbtn, #Pbtn, #Sbtn{
+
+    margin-right: 30%;
+    margin-left: 25%;
+    width: 50%;
+    align-self: center;
+    display: inline-block;
+    padding: 10px;
+    background-color: orangered;
+
+}
+
+#Btns{
+    margin-top: 15%;
+}
